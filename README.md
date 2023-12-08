@@ -13,15 +13,16 @@ The Code for the Slot is located in Project.js inside of the Gamble Spin JS fold
    ```bash
    cd JavaScript-Slot-Machine
 
-3 - **Navigate into "Gamble Spin JS" Directory:**
+3. **Navigate into "Gamble Spin JS" Directory:**
    ```bash
    cd "Gamble Spin JS"
 
-4 - **Install Dependencies:** 
+4. **Install Dependencies:** 
    ```bash
    npm install
 
-5 - Run the Game:
-npm start
+5. **Run the Game:**
+   ```bash
+   npm start
 
 
