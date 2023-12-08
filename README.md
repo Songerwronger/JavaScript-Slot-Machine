@@ -2,10 +2,12 @@
 The Code for the Slot is located in Project.js inside of the Gamble Spin JS folder
 
 
-HOW TO RUN LOCALLY:
+**HOW TO RUN LOCALLY:**
 
-1 - Clone the Repository:
-git clone https://github.com/Songerwronger/JavaScript-Slot-Machine
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Songerwronger/JavaScript-Slot-Machine
+
 
 2 - Navigate to the Project Directory:
 cd JavaScript-Slot-Machine
