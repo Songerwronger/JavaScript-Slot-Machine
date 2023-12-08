@@ -9,8 +9,9 @@ The Code for the Slot is located in Project.js inside of the Gamble Spin JS fold
    git clone https://github.com/Songerwronger/JavaScript-Slot-Machine
 
 
-2 - Navigate to the Project Directory:
-cd JavaScript-Slot-Machine
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd JavaScript-Slot-Machine
 
 3 - Navigate into "Gamble Spin JS" Directory:
 cd "Gamble Spin JS"
